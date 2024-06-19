@@ -13,7 +13,7 @@ Este e-book de 5 páginas mostra a relação que a linguagem Python possui com I
 
 ## 🧐 Processo de Criação
 
-Utilizei o ChatGPT para mostrar como seria um modelo de e-book. Depois, utilizei o Canva para criar o e-book com uma referência citada para desenvolver o projeto e também o Copilot como gerador de imagens de programadores e uma IA sendo desenvolvida.
+Utilizei o ChatGPT para mostrar como seria um modelo de e-book. Depois, utilizei o Canva para criar o e-book com uma referência citada para desenvolver o projeto e também o Copilot como gerador de duas imagens: uma de programadores e imagem de uma IA sendo desenvolvida.
 
 ## 🚀 Resultados
 
